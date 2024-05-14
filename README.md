@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [https://abidportfolio.netlify.app/](https://abidportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abidportfolio.netlify.app/]()
 
 - 💬 Ask me about **React , JavaScript , CSS , html .**
 
